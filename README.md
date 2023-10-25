@@ -1,7 +1,7 @@
 ## My repos
 - Pokemon Playing AI
-  - [poketypes](https://github.com/trevorWieland/poketypes): Automatied protobuf enumerations and pydantic basemodels for all things pokemon
-  - [pokesage](https://github.com/trevorWieland/pokesage): Pokemon battle simulation/connection layer for the sake of training AI player agents.
+  - [poketypes](https://github.com/trevorWieland/poketypes) ([docs](https://trevorwieland.github.io/poketypes)): Automatied protobuf enumerations and pydantic basemodels for all things pokemon
+  - [pokesage](https://github.com/trevorWieland/pokesage) ([docs](https://trevorwieland.github.io/pokesage)): Pokemon battle simulation/connection layer for the sake of training AI player agents.
 - My gists
   - [AI in the Retail Space](https://gist.github.com/trevorWieland/f6c22b97b4ada10bca63998f3b52dd9f): A write-up I made after researching as part of some consulting work for a customer-facing retail chatbot program.
 - Misc
